@@ -1,3 +1,5 @@
+#código para transformar a temperatura de graus celsius para farenheit
+
 C = float(input("informe a temperatura em celcius: "))
 fr = 1.8 * C + 32
 
